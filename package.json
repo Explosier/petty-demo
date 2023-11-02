@@ -1,0 +1,16 @@
+{
+  "name": "petty-demo",
+  "version": "1.0.0",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4606"
+  },
+  "keywords": [],
+  "author": "Tadas Valantonis",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
